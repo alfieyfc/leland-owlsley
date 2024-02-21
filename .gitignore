@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# Local files
+*.env
+local/
+
+# Temporary files
+tmp/

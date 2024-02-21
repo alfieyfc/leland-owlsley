@@ -1,0 +1,38 @@
+[
+    {
+        "ItemId": "fishingbishopfisht5",
+        "ItemName": "Abaia Serpe",
+        "Price": "350",
+        "Availability": 2,
+        "LastUpdated": "2024-01-25T08:09:21.552193",
+        "HighestBuyOrder": null,
+        "Qty": null
+    },
+    {
+        "ItemId": "glyphstone_above",
+        "ItemName": "Above Glyph Stone",
+        "Price": "1.95",
+        "Availability": 602,
+        "LastUpdated": "2024-02-21T07:40:03.612948",
+        "HighestBuyOrder": null,
+        "Qty": null
+    },
+    {
+        "ItemId": "tinctureacidt5",
+        "ItemName": "Acid Tincture",
+        "Price": "89",
+        "Availability": 64,
+        "LastUpdated": "2024-01-18T09:33:59.750404",
+        "HighestBuyOrder": 10,
+        "Qty": 60
+    },
+    {
+        "ItemId": "perkitem_armor_health",
+        "ItemName": "Adamant",
+        "Price": "2790",
+        "Availability": 1,
+        "LastUpdated": "2024-02-21T07:44:26.593973",
+        "HighestBuyOrder": 2100.01,
+        "Qty": 12
+    }
+]
